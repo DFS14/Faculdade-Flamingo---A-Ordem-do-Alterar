@@ -5,3 +5,6 @@ Mãos a Obra. Pensando no banco que já foi criado para o Projeto do Hospital, r
 Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não.
 
 Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+
+![image](https://github.com/DFS14/Faculdade-Flamingo---A-Ordem-do-Alterar/assets/114403677/ccab6560-2150-4e96-a9d9-b03bc4c57f0f)
